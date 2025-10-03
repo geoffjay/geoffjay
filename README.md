@@ -1,4 +1,4 @@
-<h1><img src="https://github.com/geoffjay/geoffjay/blob/master/blob-wave.gif" width="30"/> Hi there!</h1>
+<h1><img src="https://github.com/geoffjay/geoffjay/blob/master/assets/blob-wave.gif" width="30"/> Hi there!</h1>
 
 <p>
   Welcome to my page!
